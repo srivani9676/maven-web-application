@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>srivani9676 Releases Nexus Repository</name>
+	      <name>admin Releases Nexus Repository</name>
 	      <url>http://13.233.232.246:9981/srivani9676/repository/walmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>srivani9676 Snapshot Nexus Repository </name>
+	      <name>admin Snapshot Nexus Repository </name>
 	      <url>http://13.233.232.246:9981/srivani9676/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
